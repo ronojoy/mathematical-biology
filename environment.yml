@@ -1,0 +1,9 @@
+name: mathematical-biology 
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy 
+
